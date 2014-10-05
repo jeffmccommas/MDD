@@ -17,3 +17,5 @@ Set up a repo for development
 Setup the structure for a one page portfolio. Will be using bootsrap 3.0 and jquery for animation
 <h3>5 ) Quality Assurance</h3>
 test, test, test. Form a small gruop of friends to QA the site and give feedback to any issues that are identified.
+<h3>6 ) Push Staging Dev to Production Environment</h3>
+Push staging branck to master and hope that someone will hire me as a UI Developer
