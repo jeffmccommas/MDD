@@ -13,5 +13,5 @@ First thing is to set up my server environments at Digital Ocean
  Purchase a good domain name that I can use to showoff works to potential employers
 <h3>3) Create Github Repo</h3>
 Set up a repo for development
-<h3>4 ) Create Github Repo</h3>
-Set up a repo for development
+<h3>4 ) Start Development</h3>
+Setup the structure for a one page portfolio. Will be using bootsrap 3.0 and jquery for animation
