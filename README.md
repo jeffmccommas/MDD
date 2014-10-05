@@ -9,4 +9,9 @@ This is my assignment for Full Sail MDD class. I am creating a one page portfoli
 
 <h3>1) Set up servers for Production and Staging</h3>
 First thing is to set up my server environments at Digital Ocean
-<h3>1) Purhase a domain name at namecheap.com that I can use to showoff works to potential employers</h3>
+<h3>2) Purhase a domain name</h3>
+ Purchase a good domain name that I can use to showoff works to potential employers
+<h3>3) Create Github Repo</h3>
+Set up a repo for development
+<h3>4 ) Create Github Repo</h3>
+Set up a repo for development
