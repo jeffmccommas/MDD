@@ -15,3 +15,5 @@ First thing is to set up my server environments at Digital Ocean
 Set up a repo for development
 <h3>4 ) Start Development</h3>
 Setup the structure for a one page portfolio. Will be using bootsrap 3.0 and jquery for animation
+<h3>5 ) Quality Assurance</h3>
+test, test, test. Form a small gruop of friends to QA the site and give feedback to any issues that are identified.
