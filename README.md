@@ -1,5 +1,5 @@
-Portfolio Development for Jeffrey McCommas
-Live site URL is: http://jeffreymccommas.com/
+<h2>Portfolio Development for Jeffrey McCommas</h2>
+<p>Live site URL is: http://jeffreymccommas.com </p>
 ===
 
 Mobile Device Deployment - Online
