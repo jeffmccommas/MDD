@@ -1,0 +1,188 @@
+@media screen and (max-width: 1018px) {
+	
+div.content-960
+{ 
+	width: 800px;
+}
+#work-items li
+{
+	width: 242px
+}
+div.list_carousel.responsive
+{
+	width: 89%;
+}
+#contact ul.counter-widget li 
+{
+	width:	161px;
+	margin: 25px;
+}
+li.border-right
+{
+	border-right: none;
+}
+#contact #contact-form li:last-child
+{
+	margin-top: 50px;
+}
+li.message-holder
+{
+	margin-right: 0;
+}
+.modal
+{
+	width: 630px;
+}
+img.portfolio-plus
+{
+	left: 82px;
+	top: 75px;
+}
+div.tweets-image img
+{
+max-width: 100%;
+}
+div.menu-border
+{
+	max-width: 780px;
+}
+}
+@media screen and (max-width: 840px) {
+	
+div.content-960
+{ 
+	width: 400px;
+}
+.one_third, .one_fourth{
+	width: 100%;
+	float: none;
+	margin-right: 0;
+	margin-left: 0;
+}
+#news-items li
+{
+	float: none;
+	margin: 0 auto 40px !important;
+}
+#about li
+{
+	float: none;
+	margin: 0 auto 40px !important;
+}
+#work-items li
+{
+	width: 296px;
+	float: none;
+	margin: 0 auto 40px !important;
+}
+div.list_carousel.responsive
+{
+	width: 79%;
+}
+#contact #contact-form li 
+{
+    display: block;
+    margin: 25px 0;
+	margin-right: 0;
+}
+.modal
+{
+	width: 75%;
+}
+article .article-content h1
+{
+	font-size: 20px;
+}
+div.tweets-image, div.tweets
+{
+	display: none;
+}
+img.portfolio-plus
+{
+	left: 109px;
+	top: 100px;
+}
+}
+@media screen and (max-width: 750px) {
+div.main-menu
+{
+	display: none;
+}
+ul.slides
+{
+	font-size: 50px;
+}
+p.info
+{
+	width: 100%;
+}
+a.popup-close
+{
+	display: none;
+}
+
+}
+@media screen and (max-width: 768px) {
+div.main-menu a.logo
+{
+	font-size: 14px;
+    font-weight: normal;
+	display: inline-block;
+	padding: 20px 0;
+	float: left;
+}
+ul.slides
+{
+	font-size: 50px;
+}
+p.info
+{
+	width: 100%;
+}
+a.popup-close
+{
+	display: none;
+}
+#about li
+{
+	float: none;
+	margin: 0 0 20px 0;
+	width:300px;
+}
+#about div.top-100{
+	margin:0 0 0 10px !important;
+ }
+}
+@media screen and (max-width: 423px) {
+div.content-960
+{ 
+	width: 100%;
+}
+div.list_carousel.responsive
+{
+	width: 72%;
+}
+
+}
+@media (max-width: 767px) {
+ @media (max-width: 480px) {
+#about li
+{
+	float: left;
+	margin: 0 0 20px 0;
+	width:300px;
+}
+#about div.top-100{
+	margin:0 0 0 10px !important;s
+ }
+ @media (max-width: 320px) {
+	 #about li
+{
+	float: left;
+	margin: 0 0 20px 0;
+	width:300px;
+}
+#about div.top-100{
+	margin:0 0 0 10px !important;
+ }
+ }
